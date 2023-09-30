@@ -1,0 +1,2 @@
+D:\repos\Qt test\vsTest\GreenHouse\x64\Debug\GreenHouse.exe
+D:\repos\Qt test\vsTest\GreenHouse_0\x64\Debug\GreenHouse.exe

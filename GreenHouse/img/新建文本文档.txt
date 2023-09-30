@@ -1,0 +1,5 @@
+Params{temp:39.3;humi:82.9;light:69.3;soil:38.3;mq2:22.2;rain:57.3;}
+
+enable soil:25 
+enable rain:25 
+enable temp:25 
